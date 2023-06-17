@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de Site",
+      "price": 1400,
+      "type": "income",
+      "category": "Desenvolvimento",
+      "createdAt": "2023-06-03T20:25:03.589Z"
+    },
+    {
+      "id": 2,
+      "description": "Compras",
+      "price": 300,
+      "type": "outcome",
+      "category": "Supermercado",
+      "createdAt": "2023-06-01T14:32:03.589Z"
+    },
+    {
+      "id": 3,
+      "description": "Lanche",
+      "price": 7.35,
+      "type": "outcome",
+      "category": "Padaria",
+      "createdAt": "2023-06-03T19:12:03.589Z"
+    },
+    {
+      "description": "Paffocam",
+      "price": 1212,
+      "category": "Tinindum",
+      "type": "income",
+      "createdAt": "2023-06-03T23:05:14.243Z",
+      "id": 4
+    },
+    {
+      "description": "Teste",
+      "price": 1212,
+      "category": "Lalalal",
+      "type": "outcome",
+      "createdAt": "2023-06-03T23:13:06.557Z",
+      "id": 5
+    }
+  ]
+}
